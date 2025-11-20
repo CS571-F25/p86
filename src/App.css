@@ -40,3 +40,43 @@
 .read-the-docs {
   color: #888;
 }
+/* Full-width dark navbar */
+.scrapbook-navbar {
+  background-color: #0B3D2E; /* deep green */
+  padding: 12px 20px;
+  width: 100%;
+}
+
+/* Brand text */
+.scrapbook-brand {
+  font-weight: bold;
+  font-size: 1.3rem;
+  color: #76D7C4 !important; /* aqua accent */
+}
+
+.nav-link {
+  color: #f5f5f2 !important; /* cream */
+  margin-left: 15px;
+  font-weight: 500;
+}
+
+.nav-link:hover {
+  color: #76D7C4 !important;
+}
+/* Scrapbook Global Page Styles */
+.scrapbook-page {
+  text-align: center;
+  padding-top: 80px;
+}
+
+.scrapbook-title {
+  font-size: 2.5rem;
+  font-weight: 700;
+  color: #0A2342; /* midnight blue */
+}
+
+.scrapbook-subtitle {
+  font-size: 1.2rem;
+  margin-top: 10px;
+  color: #145A32;
+}
